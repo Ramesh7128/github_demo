@@ -2,3 +2,5 @@ this is a text file
 it needs to be tested 
 with things i can do with git 
 lets see what happens
+
+this is a new paragraph for the merge and it will be merged to master later
